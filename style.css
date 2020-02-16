@@ -1,0 +1,25 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+main {
+    display: flex;
+    width: 1024px;
+    margin: auto;
+}
+img {
+    padding: 20px;
+}
+.expirience-text {
+    text-align: justify;
+}
+
+table {
+    border-collapse: collapse;
+}
+tr,td {
+   padding: 3px; 
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
